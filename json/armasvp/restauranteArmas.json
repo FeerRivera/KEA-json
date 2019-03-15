@@ -1,0 +1,164 @@
+{
+    "restaurante": {
+        "nameHotel": "VP VINTAGE",
+        "name": "RESTAURANTE",
+        "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/vintage/super_suite/desktop/super_suite_01.png",
+        "descripcion":"Los Alimentos y bebidas son preparados con la más alta calidad.",
+        "brandImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/restaurant/header/restaurant.jpg",
+        "servicios":[ 
+            "Servicio de restaurante (Room Service)",
+            {
+                "horarios": "Domingo a Jueves 8:00 a 23:00 hrs Viernes y Sábado 8:00 a 2:00 hrs"
+                
+            }
+        ],
+        "contacto": { 
+            "correo": "ayuda@motelesvp.com",
+            "facebook": "https://www.facebook.com/MotelesVPMX",
+            "twitter" : "https://twitter.com/MotelesVpMx",
+            "instagram" : "https://www.instagram.com/motelesvpmx/?hl=en",
+            "Dirección": "José María Morelos y Pavon 100 Col. San Lucas Tlalnepantla. Estado de México. 54055.",
+            "tel":[
+                "+52 1 55 8751 8318",
+                "52 1 55 8751 8317"
+            ]  
+       },
+      
+       "alimentos":{
+            "Carnes y Aves": {
+                "imagen": " https://moteles-vp-mx.s3.amazonaws.com/img/motel/restaurant/carnes_aves.jpg",
+            
+                "carnes" : [
+                "Filete a la tampiqueña",
+                "Filete a la plancha",
+                "Puntas de filete a la mexicana",
+                "Puntas de filete al chipotle",
+                "Puntas de filete al albañil",
+                "Milanesa con papas",
+                "Sábana invierno (napada con frijoles y queso)",
+                "Parrillada azteca (T-bone, rib eye, arrachera, chorizo y pollo)",
+                "Carne asada con chilaquiles",
+                "Milanesa de res empanizada",
+                "Cordón bleu, centro de jamón y queso",
+                "Cecina enchilada",
+                "Cecina con nopales",
+                "Fajitas de res",
+                "Arrachera importada",
+                "New York",
+                "Rib eye",
+                "Pechuga de pollo empanizada",
+                "Pechuga cordón bleu, centro de jamón y queso",
+                "Pechuga a la plancha con papas",
+                "Pechuga poblana",
+                "Pollo a la cacerola con verduras",
+                "Pollo con mole",
+                "Fajitas de pollo"
+                ]
+            },
+            "DULCERIA Y BOTANA": {
+                "imagen": " https://moteles-vp-mx.s3.amazonaws.com/img/motel/restaurant/dulceria.jpg",
+                
+                "dulces": [
+                "Chocolates",
+                "Larín, snickers",
+                "Pastillas Halls",
+                "Chicles",
+                "Palomitas",
+                "Papas sabritas"
+                ]
+            },
+            "PLATILLOS MEXICANOS": {
+                "imagen": " https://moteles-vp-mx.s3.amazonaws.com/img/motel/restaurant/platillos_mexicanos.jpg ",
+
+                "platillos": [
+                "Enchiladas suizas",
+                "Enchiladas rojas, verdes y mole",
+                "Tacos dorados con pollo y guacamole",
+                "Chilaquiles con pollo",
+                "Chilaquiles rojos y verdes",
+                "Quesadillas con guacamole",
+                "Molletes a la mexicana",
+                "Molletes combinados (rajas, jamón, tocino)",
+                "Burritas con jamón y queso o pollo y queso"
+                ]
+            },   
+            "CAFÉS": {
+                "imagen":" https://moteles-vp-mx.s3.amazonaws.com/img/motel/restaurant/cafe.jpg",
+
+                "bebidas":[
+                "Café americano",
+                "Café con leche",
+                "Cappuccino",
+                "Té",
+                "Té helado",
+                "Vaso de leche",
+                "Chocolate",
+                "Malteadas"
+                ]
+            },
+            "SNACKS": {
+                "imagen": " https://moteles-vp-mx.s3.amazonaws.com/img/motel/restaurant/algo_ligero.jpg",
+
+                "Snack":[
+                "Sándwich de jamón y queso",
+                "Sándwich de pollo",
+                "Sándwich de atún",
+                "Sándwich de queso panela",
+                "Sándwich de salchicha",
+                "Club sándwich",
+                "Hamburguesa con queso y papas a la francesa",
+                "Hamburguesa de pollo",
+                "Hamburguesa de sirloin",
+                "Hot dogs (2)",
+                "Pepitos de filete con papas",
+                "Papas a la francesa",
+                "Frijoles refritos con queso",
+                "Chiles toreados",
+                "Cebollitas de cambray asadas",
+                "Nachos con queso",
+                "Alitas de pollo (8pz.)",
+                "Dedos de queso (8pz)",
+                "Mixtas, alitas y dedos (8pz)",
+                "Nuggets (8pz)",
+                "Banderilla (1pz)",
+                "Pizza individual (varios)",
+                "Chapata de jamón con queso manchego",
+                "Chapata de pechuga de pavo con queso manchego",
+                "Chapata de salchichón con queso manchego"
+                 ]
+            },
+            "POSTRES EXCLISIVOS": {
+                "imagen": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/restaurant/postres.jpg",
+
+                "postres": [
+                    "Helados de fresa, chocolate, vainilla y napolitano",
+                    "Banana split",
+                    "Duraznos en almíbar",
+                    "Flan cubano",
+                    "Crepas con cajeta",
+                    "Crepas con nutella",
+                    "Crepas con nutella y plátano",
+                    "Crepas con lechera",
+                    "Crepas mermelada de fresa",
+                    "Crepas mermelada de fresa con Philadelphia",
+                    "Crepas mermelada de piña",
+                    "Crepas mermelada de piña con Philadelphia",
+                    "Plátanos fritos con crema"
+                ]
+            },
+            "TACOS": {
+                "imagen": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/restaurant/tacos.jpg",
+
+                "taqitos": [
+                    "Alambre",
+                    "Tacos de bistec",
+                    "Tacos de bistec con queso",
+                    "Tacos de arrachera",
+                    "Tacos al pastor",
+                    "Gringa"
+                ]
+            }
+       }
+    }
+    
+}

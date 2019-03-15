@@ -1,0 +1,111 @@
+{
+    "suite": {
+        "hotelName": "VP ARMAS",
+        "name": "HABITACIÓN SUITE JUNIOR",
+        "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/armas/suite_junior/desktop/motel_suite_junior_01.jpg",
+        "descripcion":"Realiza las mejores posiciones sexuales en el potro del amor.",
+        "brandImage": "https://moteles-vp-mx.s3.amazonaws.com/img/logos/logo-armas.png",
+        "contacto": { 
+            "correo": "ayuda@motelesvp.com",
+            "facebook": "https://www.facebook.com/MotelesVPMX",
+            "twitter" : "https://twitter.com/MotelesVpMx",
+            "instagram" : "https://www.instagram.com/motelesvpmx/?hl=en",
+            "Dirección": "Calzada Las Armas 605 Col. Providencia, Azcapotzalco Ciudad de México. C.P. 02440.",
+            "tel":[
+                "+52 1 55 5318 1318"
+            ]    
+       },
+        "desc": "La cama king size está iluminada con luces de neón y al frente un sensual espejo que refleja el famoso potro del amor. Para tu comodidad este motel cuenta con una sala y bar.",
+        "amenidades": [
+        "TV / Pantalla",
+        "DVD/Blu-ray",
+        "WiFi",
+        "TV por Cable",
+        "Canal para Adultos",
+        "Equipo de Sonido",
+        "Aire Acondicionado",
+        "Cama King Size",
+        "Accesorios de Baño",
+        "Sillón",
+        "Sala",
+        "Bar",
+        "Garage Privado"
+        ],
+        "atracciones": [
+            "Potro del Amor"
+        ],
+        "tarifasSemana": [
+            {
+                "día": "Lunes",
+                "tarifa":"$420.00MXN",
+                "tiempo": "6Hrs"
+            },
+            {
+                "día": "Martes",
+                "tarifa":"$420.00MXN",
+                "tiempo": "6Hrs"
+            },
+            {
+                "día": "Miercoles",
+                "tarifa":"$420.00MXN",
+                "tiempo": "6Hrs"
+            },
+            {
+                "día": "Jueves",
+                "tarifa":"$420.00MXN",
+                "tiempo": "6Hrs"
+            },
+            {
+                "día": "Viernes",
+                "tarifa":"$420.00MXN",
+                "tiempo": "6Hrs"
+            },
+            {
+                "día": "Sabado",
+                "tarifa":"$420.00MXN",
+                "tiempo": "6Hrs"
+            },
+            {
+                "día": "Domingo",
+                "tarifa":"$420.00MXN",
+                "tiempo": "6Hrs"
+            }
+
+        ],
+       
+       "imagenes": [
+            {
+                "imagen": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/armas/suite_junior/desktop/motel_suite_junior_01.jpg"
+            },    
+            {
+                "imagen": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/armas/suite_junior/desktop/motel_suite_junior_02.jpg"
+            },
+            {
+                "imagen": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/armas/suite_junior/desktop/motel_suite_junior_03.jpg"
+            },
+            {
+                "imagen": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/armas/suite_junior/desktop/motel_suite_junior_04.jpg"
+            }
+        ],
+        "opiniones":[
+            {
+                "nombre": "ROCÍO MONTES.",
+                "comentario": "Mi esposa y yo pensamos en regresar, porque fue una experiencia muy buena. Gracias. "
+            },
+            {
+                "nombre": "PAMELA HERNANDEZ.",
+                "comentario" : "Las habitaciones están padrísimas y uff la comida ni se diga. ¡Me encantó todo!"
+            },
+            {
+                "nombre": "SAM MONTERRUBIO.",
+                "comentario" : "Me parece un excelente servicio, muy higiénico, todo muy limpio...un lugar muy agradable."
+            },
+            {
+                "nombre": "YULIETTE HEMOSHA.",
+                "comentario" : "He vivido mis mejores momentos ahí... ;) Me encanta. Deliciosa comida."
+            }
+        ]
+        
+    }
+    
+}

@@ -1,0 +1,208 @@
+{
+    "hotelChain":{
+        "name": "MOTELES VP",
+        "descripcion": "Te brinda una gran experiencia en cada uno de sus moteles; Motel VP New, Motel VP Elite, Motel VP Armas, Motel VP Neza, Motel VP Vintage y Hotel Live Colors.", 
+        "brandImage": "https://moteles-vp-mx.s3.amazonaws.com/img/logos/logo-moteles-vp.png",
+        "contacto": { 
+            "correo": "ayuda@motelesvp.com",
+            "facebook": "https://www.facebook.com/MotelesVPMX",
+            "twitter" : "https://twitter.com/MotelesVpMx",
+            "instagram" : "https://www.instagram.com/motelesvpmx/?hl=en",
+            "tel":[
+                "+52 55 53181318", 
+                "+52 55 53185664"
+            ] 
+        
+        }
+    },
+    "imagenes":[
+        {   
+            "descripcion": "",
+            "titulo": "vparmas",
+            "imagen": "https://moteles-vp-mx.s3.amazonaws.com/img/slides/desktop/armas.jpg"
+        },
+        {
+            "descripcion": "",
+            "nombre": "vpelite",
+            "imagen": "https://moteles-vp-mx.s3.amazonaws.com/img/slides/desktop/elite.jpg"
+        },
+        {
+            "descripcion": "",
+            "nombre": "vpnew",
+            "imagen": "https://moteles-vp-mx.s3.amazonaws.com/img/slides/desktop/new.jpg"
+        },
+        {
+            "descripcion": "",
+            "nombre": "vpneza",
+            "imagen": "https://moteles-vp-mx.s3.amazonaws.com/img/slides/desktop/live-colors.jpg"
+        }
+    ],
+    
+    "hoteles": [
+        { 
+        "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/vintage/general/desktop/1_main.jpg", 
+        
+        "colorPalette": {
+            "principal": "#CC9C51" 
+         },  
+
+        "nombre": "MOTEL VP VINTAGE",
+        "descripcion": "Elegancia, éxtasis y fantasia",
+        "website": "http://local.motelesvp.com/motel/motel-vp-vintage", 
+        "direccion": "José María Morelos y Pavon 100, Col. San Lucas Tepetlacalco, Tlalnepantla. Estado de México. 54055. ",
+        "tel":[
+            "+52 1 55 8751 8318",
+            "+52 1 55 8751 8319" 
+        ],
+        "lowerFare": "",
+
+        "location": {
+            "latitud": "",
+            "longitud": ""
+         }
+        },
+
+        { 
+        "Coverimage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/new/general/desktop/new.jpg",  
+
+        "colorPalette": {
+            "principal": "#C23236" 
+        },
+          
+        "nombre": "MOTEL VP NEW",
+        "descripcion": "Ilusión, diversión y erotismo",
+        "website": "http://local.motelesvp.com/motel/motel-vp-new", 
+        "direccion": "Paganini 120, Interior 2, Col. Vallejo, Gustavo A. Madero, Ciudad de México. C.P. 07870.",
+        "tel": [
+            "+52 1 55 5517 7800",  
+            "+52 1 55 5537 0542",
+            "+52 1 55 5537 0725"
+        ],
+        "lowerFare": "",
+
+        "location": {
+            "latitud": "",
+            "longitud": ""
+         }
+        },
+       
+        { 
+        "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/neza/general/desktop/neza.jpg",  
+        
+        "colorPalette": {
+            "principal": "#5A2981"
+        },   
+
+        "nombre": "MOTEL VP NEZA",
+        "descripcion": "Confort, pasión y placer",
+        "website": "http://local.motelesvp.com/motel/motel-vp-neza", 
+        "direccion": "Vallejo 382, Col. Ampliación Vicente Villada, Estado de México. C.P. 57710. ",
+        "tel":[ 
+            "+52 1 55 5742 7203"
+        ],
+
+        "lowerFare": "",
+
+        "location": {
+            "latitud": "",
+            "longitud": ""
+         }
+        },
+
+        { 
+        "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/elite/general/desktop/elite.jpg",  
+
+        "colorPalette": {
+            "principal": "#D1772E" 
+        }, 
+
+        "nombre": "MOTEL VP ELITE",
+        "descripcion": "Vanguardista, erótico y sensual",
+        "website": "http://local.motelesvp.com/motel/motel-vp-elite", 
+        "direccion": "Calzada San Agustín 1, Col. 10 de Abril, Naucalpan de Juárez, Estado de México. C.P. 53320.",
+        "tel": [
+            "+52 1 55 6726 4066"
+        ],
+        "lowerFare": "",
+
+        "location": {
+            "latitud": "",
+            "longitud": ""
+         }
+        },
+
+        { 
+        "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/armas/general/desktop/armas.jpg",
+        
+        "colorPallete": { 
+            "principal":"#4E8747"
+        },
+
+        "nombre": "MOTEL VP ARMAS",
+        "descripcion": "Pasión, romanticismo y deseo",
+        "website": "http://local.motelesvp.com/motel/motel-vp-armas",
+        "direccion": "Calzada Las Armas 605, Col. Providencia, Azcapotzalco, Ciudad de México. C.P. 02440.",
+        "tel": [
+            "+52 1 55 5318 1318"
+        ],
+        "lowerFare": "",
+
+        "location": {
+            "latitud": "",
+            "longitud": ""
+         }
+        },
+
+        { 
+        "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/live-colors/general/desktop/live-colors.jpg'", 
+        
+        "colorPallete":{
+            "principal": "#911352"
+        },
+        "titulo": "MOTEL VP LIVE COLORS",
+        "descripcion": "Seducción, amor y júbilo",
+        "website": "http://motelesvp.com/motel/hotel-live-colors", 
+        "direccion": "Av. Ing Eduardo Molina 5811, Gertrudis Sánchez II Secc, Ciudad de México. C.P. 07839. ",
+        "tel": [
+            "+52 1 55 2790 7498",
+            "+52 1 55 2790 7499"
+        ],
+        "lowerFare": "",
+
+        "location": {
+            "latitud": "",
+            "longitud": ""
+         }
+        }
+    ],
+        
+    "servicios": [
+        {
+            "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/servicios/restaurante.jpg",
+            "nombre": "RESTAURANTE-BAR",
+            "descripcion": "Todos nuestros moteles tienen servicio de comida; cuenta con un amplio menú; desayuno, comida, cena o extensa carta de bebidas con y sin alcohol."
+        },
+        {
+            "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/servicios/sexshop.jpg",
+            "titulo": "SEXSHOP",
+            "descripcion": "Déjate llevar por el placer con un amplio catálogo de juguetes sexuales para experimentar nuevas sensaciones y cumplir todas tus fantasías."
+        },
+        {
+            "Coverimage": "https://moteles-vp-mx.s3.amazonaws.com/img/servicios/estacionamiento.jpg",
+            "titulo": "ESTACIONAMIENTO",
+            "descripcion": "En algunos de nuestro moteles contamos con estacionamiento y así garantizar la seguridad de tu automóvil."
+        },
+        {
+            "Coverimage": "https://moteles-vp-mx.s3.amazonaws.com/img/servicios/garage.jpg",
+            "titulo": "GARAGE PRIVADO",
+            "descripcion": "Garage propio y seguro en cada habitación para que tu estancia sea totalmente íntima y muy discreta."
+        },
+        {
+            "Coverimage": "https://moteles-vp-mx.s3.amazonaws.com/img/servicios/room-service.jpg",
+            "titulo": "ROOM SERVICE",
+            "descripcion": "Disfruta de nuestros platillos y bebidas con servicio a tu habitación. Horarios de restaurante: domingo a jueves de 8:00 a.m a 11:00 p.m. Viernes y sábado de 8:00 AM. a 2:00 Am. Horarios de bar: las 24 horas."
+        }
+    ]
+
+}
+

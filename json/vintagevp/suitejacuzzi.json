@@ -1,0 +1,100 @@
+{
+    "suitejacuzi": {
+        "name": "HABITACIÓN SUITE JACUZZI",
+        "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/vintage/suite_jacuzzi/desktop/suite_jacuzzi_01.png",
+        "descripcion":"El placer y el erotismo se reúnen en cada burbuja de nuestro sexy jacuzzi.",
+        "brandImage": "https://moteles-vp-mx.s3.amazonaws.com/img/logos/logo-moteles-vp.png",
+        "contacto": { 
+            "correo": "ayuda@motelesvp.com",
+            "facebook": "https://www.facebook.com/MotelesVPMX",
+            "twitter" : "https://twitter.com/MotelesVpMx",
+            "instagram" : "https://www.instagram.com/motelesvpmx/?hl=en",
+            "Dirección": "José María Morelos y Pavon 100 Col. San Lucas Tlalnepantla. Estado de México. 54055.",
+            "tel":[
+                "+52 1 55 8751 8318",
+                "52 1 55 8751 8319"
+            ]  
+       },
+       "desc": "El placer y el erotismo se reúnen en cada burbuja de nuestro sexy jacuzzi. Déjate sorprender por el hidromasaje y desborda de placer tus sentidos.",
+       "amenidades": [
+        "TV / Pantalla",
+        "WiFi",
+        "TV por Cable",
+        "Canal para Adultos",
+        "Equipo de Sonido",
+        "Aire Acondicionado",
+        "Cama King Size",
+        "Accesorios de Baño",
+        "Sillón",
+        "Sala",
+        "Bar",
+        "Estacionamiento"
+        ],
+        "atracciones": [
+            "Jacuzzi",
+            "Potro del Amor",
+            "Hidromasaje"
+        ],
+        "tarifasSemana": [
+            {
+                "día": "Lunes",
+                "tarifa":"$990.00MXN",
+                "tiempo": "8Hrs"
+            },
+            {
+                "día": "Martes",
+                "tarifa":"$990.00MXN",
+                "tiempo": "8Hrs"
+            },
+            {
+                "día": "Miercoles",
+                "tarifa":"$990.00MXN",
+                "tiempo": "8Hrs"
+            },
+            {
+                "día": "Jueves",
+                "tarifa":"$990.00MXN",
+                "tiempo": "8Hrs"
+            },
+            {
+                "día": "Viernes",
+                "tarifa":"$990.00MXN",
+                "tiempo": "8Hrs"
+            },
+            {
+                "día": "Sabado",
+                "tarifa":"$990.00MXN",
+                "tiempo": "8Hrs"
+            },
+            {
+                "día": "Domingo",
+                "tarifa":"$990.00MXN",
+                "tiempo": "8Hrs"
+            }
+
+        ],
+       
+       "imagenes": [
+            {
+                "imagen": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/vintage/suite_jacuzzi/desktop/suite_jacuzzi_01.png"
+            },
+            {
+                "imagen": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/vintage/suite_jacuzzi/desktop/suite_jacuzzi_02.png"
+            },
+            {
+                "imagen": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/vintage/suite_jacuzzi/desktop/suite_jacuzzi_03.png"
+            },
+            {
+                "imagen": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/vintage/suite_jacuzzi/desktop/suite_jacuzzi_04.png"
+            },
+            {
+                "imagen": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/vintage/suite_jacuzzi/desktop/suite_jacuzzi_05.png"
+            },
+            {
+                "imagen": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/vintage/suite_jacuzzi/desktop/suite_jacuzzi_06.png"
+            }
+        ]
+        
+    }
+    
+}

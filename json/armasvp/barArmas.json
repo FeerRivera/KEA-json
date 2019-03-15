@@ -1,0 +1,137 @@
+{
+    "bar": {
+        "nameHotel": "VP VINTAGE",
+        "name": "BAR",
+        "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/vintage/super_suite/desktop/super_suite_01.png",
+        "descripcion":"Las mejores bebidas nacionales e importadas",
+        "brandImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/restaurant/header/restaurant.jpg",
+        "servicios": 
+                {
+                "horarios": "Lunes a Domingo 24 hrs"
+                },
+        "contacto": { 
+            "correo": "ayuda@motelesvp.com",
+            "facebook": "https://www.facebook.com/MotelesVPMX",
+            "twitter" : "https://twitter.com/MotelesVpMx",
+            "instagram" : "https://www.instagram.com/motelesvpmx/?hl=en",
+            "Dirección": "José María Morelos y Pavon 100 Col. San Lucas Tlalnepantla. Estado de México. 54055.",
+            "tel":[
+                "+52 1 55 8751 8318",
+                "52 1 55 8751 8317"
+            ]  
+       },
+      
+       "bebidas":{
+            "TEQUILA": {
+                "imagen": " https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/tequila.jpg ",
+            
+                "alcohol" : [
+                    "100 años",
+                    "Cazadores reposado",
+                    "Centenario Azul reposado",
+                    "Corralejo",
+                    "Cuervo 1800 reposado",
+                    "Cuervo 1800 añejo",
+                    "Cuervo especial",
+                    "Cuervo tradicional",
+                    "Don julio reposado 1942",
+                    "Don julio blanco",
+                    "Don julio reposado",
+                    "Herradura blanco",
+                    "Herradura gran imperio",
+                    "Herradura reposado",
+                    "Hornitos reposado",
+                    "Jimador reposado",
+                    "Reserva de la familia",
+                    "Siete leguas blanco",
+                    "Siete leguas reposado",
+                    "Tres generaciones reposado"
+                ]
+            },
+            "VODKA": {
+                "imagen": " https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/vodka.jpg ",
+                
+                "": [
+                    "Absolute",
+                    "Absolute Citron",
+                    "Belvedere",
+                    "Grey Goose",
+                    "Oso Negro",
+                    "Smirnoff",
+                    "Stolichnaya",
+                    "Stolichnaya Elit",
+                    "Wyborowa"
+                ]
+            },
+            "RON": {
+                "imagen": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/ron.jpg",
+
+                "": [
+                    "Appleton blanco",
+                    "Appleton dorado",
+                    "Appleton estate",
+                    "Bacardí añejo",
+                    "Bacardí blanco",
+                    "Bacardí limón",
+                    "Bacardí solera",
+                    "Cacique",
+                    "Havana 7",
+                    "Malibu",
+                    "Matusalem clásico",
+                    "Zacapa solera",
+                    "G RVA"
+                ]
+            },   
+            "WHISKY": {
+                "imagen":"https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/whisky.jpg ",
+
+                "bebidas":[
+                    "Buchanans 12 años",
+                    "Chivas Regal 12 años",
+                    "J&B",
+                    "Johnnie Walker Black",
+                    "Johnnie Walker Blue",
+                    "Johnnie Walker Red",
+                    "Macallan 12 años"
+                ]
+            },
+            "BRANDY": {
+                "imagen": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/brandy.jpg",
+
+                "":[
+                    "Azteca de oro",
+                    "Cardenal de mendoza",
+                    "Carlos I",
+                    "Don pedro",
+                    "Fundador Gran Duque D'Alba",
+                    "Lepanto",
+                    "Presidente",
+                    "Terry Centenario",
+                    "Torres 10"
+                 ]
+            },
+            "COGÑAC": {
+                "imagen": " https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/coniac.jpg ",
+
+                "": [
+                    "Martell Medallón V.S.O.P.",
+                    "Hennessy Cogñac V.S.O.P",
+                    "Rémy Martin XO",
+                    "Especial"
+                ]
+            },
+            "CHAMPAGNE": {
+                "imagen": " https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/champagne.jpg ",
+
+                "": [
+                    "Dom Perignon",
+                    "Moët & Chandon Brut",
+                    "Moët & Chandon Nectar",
+                    "Moët & Chandon Fose",
+                    "Veuve Clicquot Brut"
+                ]
+            }
+       }
+    }
+    
+}

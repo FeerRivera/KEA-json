@@ -1,0 +1,94 @@
+{
+    "hotel":{
+        "name": "VP ARMAS",
+        "about": "Ideal para una escapada romántica en pareja en la habitación jacuzzi o la habitación alberca y salir un poco de la rutina. Conoce las equipadas habitaciones que harán de tu estancia un momento placentero y divertido en el Motel VP Armas.",
+        "brandImage": "https://moteles-vp-mx.s3.amazonaws.com/img/logos/logo-armas.png",
+        "contacto": { 
+            "correo": "ayuda@motelesvp.com",
+            "facebook": "https://www.facebook.com/MotelesVPMX",
+            "twitter" : "https://twitter.com/MotelesVpMx",
+            "instagram" : "https://www.instagram.com/motelesvpmx/?hl=en",
+            "Dirección": "Calzada Las Armas 605 Col. Providencia, Azcapotzalco Ciudad de México. C.P. 02440.",
+            "tel":[
+              "+52 1 55 5318 1318"
+            ]    
+            
+        },
+        "habitaciones": [
+            {
+                "name": "HABITACION SUITE JUNIOR",
+                "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/armas/suite_junior/desktop/motel_suite_junior_01.jpg",
+                "lowerFare":  "Desde $420.00MXN",
+                "descripcion": "Realiza las mejores posiciones sexuales en el potro del amor.",
+                "website": "http://motelesvp.com/motel/motel-vp-armas/suite-junior"
+            },
+            {
+                "name": "HABITACION JACUZZI",
+                "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/armas/jacuzzi/desktop/motel_jacuzzi_01.jpg",
+                "lowerFare": "Desde $670.00MXN",
+                "descripcion": "Tiene todo para consentirte y distraerte a ti y tu pareja.", 
+                "website": "http://motelesvp.com/motel/motel-vp-armas/jacuzzi"
+            },
+            {
+                "name": "HABITACION ALBERCA",
+                "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/armas/alberca/desktop/motel_alberca_01.jpg",
+                "lowerFare": "Desde $1,600.00MXN",
+                "descripcion": "Dale rienda suelta a la pasión en la alberca con jacuzzi.", 
+                "website": "http://motelesvp.com/motel/motel-vp-armas/alberca"
+            }
+        ],
+        "restaurante": {
+            "nombre": "Restaurante",
+            "website": "http://motelesvp.com/motel/motel-vp-vintage/restaurante"
+        },
+        "sexshop": {
+            "nombre": "SEXSHOP",
+            "website": "http://motelesvp.com/motel/motel-vp-vintage/sexshop"
+        },
+        "opiniones":[
+            {
+                "nombre": "ROCÍO MONTES.",
+                "comentario": "Mi esposa y yo pensamos en regresar, porque fue una experiencia muy buena. Gracias. "
+            },
+            {
+                "nombre": "PAMELA HERNANDEZ.",
+                "comentario" : "Las habitaciones están padrísimas y uff la comida ni se diga. ¡Me encantó todo!"
+            },
+            {
+                "nombre": "SAM MONTERRUBIO.",
+                "comentario" : "Me parece un excelente servicio, muy higiénico, todo muy limpio...un lugar muy agradable."
+            },
+            {
+                "nombre": "YULIETTE HEMOSHA.",
+                "comentario" : "He vivido mis mejores momentos ahí... ;) Me encanta. Deliciosa comida."
+            }
+        ],
+        "servicios": [
+            {
+                "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/servicios/restaurante.jpg",
+                "nombre": "RESTAURANTE-BAR",
+                "descripcion": "Todos nuestros moteles tienen servicio de comida; cuenta con un amplio menú; desayuno, comida, cena o extensa carta de bebidas con y sin alcohol."
+            },
+            {
+                "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/servicios/sexshop.jpg",
+                "titulo": "SEXSHOP",
+                "descripcion": "Déjate llevar por el placer con un amplio catálogo de juguetes sexuales para experimentar nuevas sensaciones y cumplir todas tus fantasías."
+            },
+            {
+                "Coverimage": "https://moteles-vp-mx.s3.amazonaws.com/img/servicios/estacionamiento.jpg",
+                "titulo": "ESTACIONAMIENTO",
+                "descripcion": "En algunos de nuestro moteles contamos con estacionamiento y así garantizar la seguridad de tu automóvil."
+            },
+            {
+                "Coverimage": "https://moteles-vp-mx.s3.amazonaws.com/img/servicios/garage.jpg",
+                "titulo": "GARAGE PRIVADO",
+                "descripcion": "Garage propio y seguro en cada habitación para que tu estancia sea totalmente íntima y muy discreta."
+            },
+            {
+                "Coverimage": "https://moteles-vp-mx.s3.amazonaws.com/img/servicios/room-service.jpg",
+                "titulo": "ROOM SERVICE",
+                "descripcion": "Disfruta de nuestros platillos y bebidas con servicio a tu habitación. Horarios de restaurante: domingo a jueves de 8:00 a.m a 11:00 p.m. Viernes y sábado de 8:00 AM. a 2:00 Am. Horarios de bar: las 24 horas."
+            }
+        ]
+    }
+}
