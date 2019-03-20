@@ -1,9 +1,9 @@
 {
-    "bar": {
+    "sexshop": {
         "nameHotel": "VP VINTAGE",
-        "name": "BAR",
-        "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/vintage/super_suite/desktop/super_suite_01.png",
-        "description":"Las mejores bebidas nacionales e importadas",
+        "name": "SEXSHOP",
+        "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/sexshop/header/sexshop.jpg",
+        "description":"Disfruta con tu pareja el mejor placer de la vida.",
         "brandImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/restaurant/header/restaurant.jpg",
         "services": 
                 {
@@ -20,8 +20,7 @@
                 "52 1 55 8751 8317"
             ]  
        },
-      
-      
+  
        "menu":[
         {
             "name": "LUBRICANTES",

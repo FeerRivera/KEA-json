@@ -1,34 +1,35 @@
 {
-    "restaurante": {
+    "restaurant": {
         "nameHotel": "VP VINTAGE",
         "name": "RESTAURANTE",
         "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/vintage/super_suite/desktop/super_suite_01.png",
-        "descripcion":"Los Alimentos y bebidas son preparados con la más alta calidad.",
+        "description":"Los Alimentos y bebidas son preparados con la más alta calidad.",
         "brandImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/restaurant/header/restaurant.jpg",
-        "servicios":[ 
+        "services":[ 
             "Servicio de restaurante (Room Service)",
             {
-                "horarios": "Domingo a Jueves 8:00 a 23:00 hrs Viernes y Sábado 8:00 a 2:00 hrs"
+                "horary": "Domingo a Jueves 8:00 a 23:00 hrs Viernes y Sábado 8:00 a 2:00 hrs"
                 
             }
         ],
-        "contacto": { 
-            "correo": "ayuda@motelesvp.com",
+        "contact": { 
+            "email": "ayuda@motelesvp.com",
             "facebook": "https://www.facebook.com/MotelesVPMX",
             "twitter" : "https://twitter.com/MotelesVpMx",
             "instagram" : "https://www.instagram.com/motelesvpmx/?hl=en",
-            "Dirección": "José María Morelos y Pavon 100 Col. San Lucas Tlalnepantla. Estado de México. 54055.",
+            "adress": "José María Morelos y Pavon 100 Col. San Lucas Tlalnepantla. Estado de México. 54055.",
             "tel":[
                 "+52 1 55 8751 8318",
                 "52 1 55 8751 8317"
             ]  
        },
       
-       "alimentos":{
-            "Carnes y Aves": {
-                "imagen": " https://moteles-vp-mx.s3.amazonaws.com/img/motel/restaurant/carnes_aves.jpg",
+       "menu": [
+            {
+                "name": "Carnes y Aves",
+                "coverImage": " https://moteles-vp-mx.s3.amazonaws.com/img/motel/restaurant/carnes_aves.jpg",
             
-                "carnes" : [
+                "products" : [
                 "Filete a la tampiqueña",
                 "Filete a la plancha",
                 "Puntas de filete a la mexicana",
@@ -55,10 +56,11 @@
                 "Fajitas de pollo"
                 ]
             },
-            "DULCERIA Y BOTANA": {
-                "imagen": " https://moteles-vp-mx.s3.amazonaws.com/img/motel/restaurant/dulceria.jpg",
+            {
+                "name": "DULCERIA Y BOTANA",
+                "coverImage": " https://moteles-vp-mx.s3.amazonaws.com/img/motel/restaurant/dulceria.jpg",
                 
-                "dulces": [
+                "products": [
                 "Chocolates",
                 "Larín, snickers",
                 "Pastillas Halls",
@@ -67,10 +69,11 @@
                 "Papas sabritas"
                 ]
             },
-            "PLATILLOS MEXICANOS": {
-                "imagen": " https://moteles-vp-mx.s3.amazonaws.com/img/motel/restaurant/platillos_mexicanos.jpg ",
+            {
+                "name": "PLATILLOS MEXICANOS",
+                "coverImage": " https://moteles-vp-mx.s3.amazonaws.com/img/motel/restaurant/platillos_mexicanos.jpg ",
 
-                "platillos": [
+                "products": [
                 "Enchiladas suizas",
                 "Enchiladas rojas, verdes y mole",
                 "Tacos dorados con pollo y guacamole",
@@ -82,10 +85,11 @@
                 "Burritas con jamón y queso o pollo y queso"
                 ]
             },   
-            "CAFÉS": {
-                "imagen":" https://moteles-vp-mx.s3.amazonaws.com/img/motel/restaurant/cafe.jpg",
+            {
+                "name": "CAFÉS",
+                "coverImage":" https://moteles-vp-mx.s3.amazonaws.com/img/motel/restaurant/cafe.jpg",
 
-                "bebidas":[
+                "products":[
                 "Café americano",
                 "Café con leche",
                 "Cappuccino",
@@ -96,10 +100,11 @@
                 "Malteadas"
                 ]
             },
-            "SNACKS": {
-                "imagen": " https://moteles-vp-mx.s3.amazonaws.com/img/motel/restaurant/algo_ligero.jpg",
+            {
+                "name": "SNACKS",
+                "coverImage": " https://moteles-vp-mx.s3.amazonaws.com/img/motel/restaurant/algo_ligero.jpg",
 
-                "Snack":[
+                "products":[
                 "Sándwich de jamón y queso",
                 "Sándwich de pollo",
                 "Sándwich de atún",
@@ -127,10 +132,11 @@
                 "Chapata de salchichón con queso manchego"
                  ]
             },
-            "POSTRES EXCLISIVOS": {
-                "imagen": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/restaurant/postres.jpg",
+            {
+                "name": "POSTRES EXCLISIVOS",
+                "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/restaurant/postres.jpg",
 
-                "postres": [
+                "products": [
                     "Helados de fresa, chocolate, vainilla y napolitano",
                     "Banana split",
                     "Duraznos en almíbar",
@@ -146,8 +152,9 @@
                     "Plátanos fritos con crema"
                 ]
             },
-            "TACOS": {
-                "imagen": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/restaurant/tacos.jpg",
+            {
+                "name":"TACOS",
+                "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/restaurant/tacos.jpg",
 
                 "taqitos": [
                     "Alambre",
@@ -158,7 +165,7 @@
                     "Gringa"
                 ]
             }
-       }
+        ]
     }
     
 }

@@ -1,0 +1,52 @@
+{
+    "faq": {
+        "hotelName": "VP ELITE",
+        "name": "FAQ",
+        "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/faq/header/faq.jpg",
+        "brandImage": "https://moteles-vp-mx.s3.amazonaws.com/img/logos/logo-elite.png",
+        "contact": { 
+            "email": "ayuda@motelesvp.com",
+            "facebook": "https://www.facebook.com/MotelesVPMX",
+            "twitter" : "https://twitter.com/MotelesVpMx",
+            "instagram" : "https://www.instagram.com/motelesvpmx/?hl=en",
+            "adress": "Calzada San Agustín 1 Col. 10 de Abril, Naucalpan de Juárez Estado de México. C.P. 53320.",
+            "tel":[
+                "+52 1 55 6726 4066"
+            ]    
+       },
+       "frequentQuestions": [
+        {
+            "question": "¿Qué es Moteles VP?",
+            "answer": "Moteles VP es una cadena de moteles que te brinda una experiencia única: Motel VP Elite, Motel VP armas, Motel VP New, Motel VP Neza y Hotel Live Colors."
+        },
+        {
+            "question": "¿Se encuentran en la CDMX y área metropolitana?",
+            "answer": "Actualmente Moteles VP se localiza únicamente en la Ciudad de México y el Estado de México."
+        },
+        {
+            "question": "¿Todos los moteles son diferentes?",
+            "answer": "Sí, cada moteles tiene un concepto diferente, en cuanto el diseño y muebles eróticos."
+        },
+        {
+            "question": "¿Cómo puedo saber la disponibilidad en un motel?",
+            "answer": "Si llamas por teléfono directamente al motel de tu preferencia o bien en la recepción con gusto te atenderemos."
+        },
+        {
+            "question": "¿Aceptan tarjetas de crédito o débito?",
+            "answer": "Sí, nuestro sistema de pago puede ser en efectivo, con cualquier tarjeta de crédito o débito."
+        },
+        {
+            "question": "¿Me puedo comunicar por teléfono para recibir más información?",
+            "answer": "En cada motel tenemos números telefónicos donde puedes llamarnos para darte más detalles." 
+        },
+        {
+            "question": "¿Las habitaciones siempre están limpias?",
+            "answer": "Contamos con personal debidamente capacitado en las labores de limpieza todos los días de la semana."
+        },
+        {
+            "question": "¿Si voy sin coche puedo entrar?",
+            "answer": "Si llegas sin coche puedes también acceder sin problema a cualquiera de nuestros moteles."
+        }
+    ]
+ }  
+}      

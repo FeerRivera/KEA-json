@@ -1,14 +1,14 @@
 {
     "restaurant": {
-        "nameHotel": "VP VINTAGE",
+        "nameHotel": "VP ARMAS",
         "name": "RESTAURANTE",
-        "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/vintage/super_suite/desktop/super_suite_01.png",
-        "description":"Los Alimentos y bebidas son preparados con la más alta calidad.",
+        "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/armas/super_suite/desktop/super_suite_01.png",
+        "descripcion":"Los Alimentos y bebidas son preparados con la más alta calidad.",
         "brandImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/restaurant/header/restaurant.jpg",
         "services":[ 
             "Servicio de restaurante (Room Service)",
             {
-                "horarios": "Domingo a Jueves 8:00 a 23:00 hrs Viernes y Sábado 8:00 a 2:00 hrs"
+                "horary": "Domingo a Jueves 8:00 a 23:00 hrs Viernes y Sábado 8:00 a 2:00 hrs"
                 
             }
         ],
@@ -23,7 +23,7 @@
                 "52 1 55 8751 8317"
             ]  
        },
-      
+           
        "menu": [
         {
             "name": "Carnes y Aves",

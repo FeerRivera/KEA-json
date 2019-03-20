@@ -1,0 +1,120 @@
+{
+    "simple": {
+        "hotelName": "VP NEZA",
+        "name": "HABITACIÓN SENCILLA",
+        "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/neza/sencilla/desktop/motel_sencilla_01.jpg",
+        "descrption":"Explora nuevos y ardientes juegos eróticos.",
+        "brandImage": "https://moteles-vp-mx.s3.amazonaws.com/img/logos/logo-neza.png",
+        "contact": { 
+            "email": "ayuda@motelesvp.com",
+            "facebook": "https://www.facebook.com/MotelesVPMX",
+            "twitter" : "https://twitter.com/MotelesVpMx",
+            "instagram" : "https://www.instagram.com/motelesvpmx/?hl=en",
+            "adress": "Vallejo 382 Col. Ampliación Vicente Villada Estado de México. C.P. 57710.",
+            "tel":[
+                "+52 1 55 5742 7203"
+            ]    
+       },
+       "depiction": "Una forma muy divertida de explorar sensaciones nuevas con tu pareja es experimentar con el potro del amor. ¡Aumenta tus conocimientos en el sexo.",
+       "amenities": [
+        "TV / Pantalla",
+        "DVD/Blu-ray",
+        "WiFi",
+        "TV por Cable",
+        "Canal para Adultos",
+        "Equipo de Sonido",
+        "Aire Acondicionado",
+        "Cama King Size",
+        "Accesorios de Baño",
+        "Sillón",
+        "Sala",
+        "Bar",
+        "Garage Privado"
+        ],
+        "atractions": [
+            "Potro del Amor"
+        ],
+        "rateWeek": [
+            {
+                "day": "Lunes",
+                "rate":"$310.00MXN",
+                "time ": "6Hrs"
+            },
+            {
+                "day": "Martes",
+                "rate":"$310.00MXN",
+                "time ": "6Hrs"
+            },
+            {
+                "day": "Miercoles",
+                "rate":"$310.00MXN",
+                "time ": "6Hrs"
+            },
+            {
+                "day": "Jueves",
+                "rate":"$310.00MXN",
+                "time ": "6Hrs"
+            },
+            {
+                "day": "Viernes",
+                "rate":"$310.00MXN",
+                "time ": "6Hrs"
+            },
+            {
+                "day": "Sabado",
+                "rate":"$310.00MXN",
+                "time ": "6Hrs"
+            },
+            {
+                "day": "Domingo",
+                "rate":"$310.00MXN",
+                "time ": "6Hrs"
+            }
+
+        ],
+       
+       "images": [
+            {
+                "image": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/neza/sencilla/desktop/motel_sencilla_01.jpg"
+            },    
+            {
+                "image": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/neza/sencilla/desktop/motel_sencilla_02.jpg"
+            },
+            {
+                "image": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/neza/sencilla/desktop/motel_sencilla_04.jpg"
+            },
+            {
+                "image": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/neza/sencilla/desktop/motel_sencilla_03.jpg"
+            },
+            {
+                "image": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/neza/sencilla/desktop/motel_sencilla_05.jpg"
+            },
+            {
+                "image": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/neza/sencilla/desktop/motel_sencilla_06.jpg"
+            }
+        ],
+        "opinions":[
+            {
+                "name": "GUSTAVO GARCIA",
+                "comentary": "Recomiendo este motel, es limpio y los precios están muy bien."
+            },
+            {
+                "name": "VERONICA MORENO",
+                "comentary" : "No es caro y las habitaciones de diez, gracias por todo."
+            },
+            {
+                "name": "JORGE PÉREZ",
+                "comentary" : "El jacuzzi me gustó, espero regresar otra vez con mi esposa. ¡Saludos!"
+            },    
+            {
+                "name": "ARMANDO CAMACHO",
+                "comentary" : "Muy bueno en cuanto al servicio y sus habitaciones limpias."
+            }
+        ]
+        
+    }
+    
+}
+
+
+

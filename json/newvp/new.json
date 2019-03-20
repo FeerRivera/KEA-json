@@ -1,0 +1,100 @@
+{
+    "hotel": {
+        "hotelName": "VP NEW",
+        "description":"Las habitaciones del Motel VP New están iluminadas y acondicionadas con muebles eróticos y elegantes. Cuenta con potro del amor; un espejo en el que podrás ver tus mejores posiciones sexuales. Un jacuzzi rectangular, revestido en madera que crean un ambiente sensual y placentero.",
+        "brandImage": "https://moteles-vp-mx.s3.amazonaws.com/img/logos/logo-new.png",
+        "contacto": { 
+            "correo": "ayuda@motelesvp.com",
+            "facebook": "https://www.facebook.com/MotelesVPMX",
+            "twitter" : "https://twitter.com/MotelesVpMx",
+            "instagram" : "https://www.instagram.com/motelesvpmx/?hl=en",
+            "Dirección": "Paganini 120, Interior 2 Col. Vallejo, Gustavo A. Madero Ciudad de México. C.P. 07870.",
+            "tel":[
+                "+52 1 55 5517 7800",
+                "+52 1 55 5537 0542",
+                "+52 1 55 5537 0725"
+            ]    
+       },
+        "habitaciones": [
+            {
+                "name": "HABITACION SENCILLA",
+                "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/new/sencilla/desktop/motel_sencilla_01.jpg",
+                "lowerFare":  "Desde $320.00MXN",
+                "description": "Ideal para realizar posturas excitantes del kamasutra.",
+                "website": "http://motelesvp.com/motel/motel-vp-new/sencilla"
+            },
+            {
+                "name": "HABITACION JACUZZI",
+                "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/new/jacuzzi/desktop/motel_jacuzzi_01.jpg",
+                "lowerFare": "Desde $590.00MXN",
+                "description": "Encuentros eróticos e inolvidables en el jacuzzi", 
+                "website": "http://motelesvp.com/motel/motel-vp-new/jacuzzi"
+            },
+            {
+                "name": "HABITACION BABY POOL",
+                "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/new/baby-pool/desktop/motel_babypool_01.jpg",
+                "lowerFare": "Desde $890.00MXN",
+                "description": "Posiciones sexuales en una candente sesión de tina.", 
+                "website": "http://motelesvp.com/motel/motel-vp-new/baby-pool"
+            }
+        ],
+        "restaurante": {
+            "name": "RESTAURANTE",
+            "website": "http://motelesvp.com/motel/motel-vp-new/restaurante"
+            },
+        "sexshop": {
+            "name": "SEXSHOP",
+            "website": "http://motelesvp.com/motel/motel-vp-new/sexshop"
+        },
+        "preguntasfrecuentes": {
+            "name": "FAQ",
+            "website": "http://motelesvp.com/motel/motel-vp-new/faq"
+
+        },
+        "servicios": [
+            {
+                "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/servicios/restaurante.jpg",
+                "name": "RESTAURANTE-BAR",
+                "description": "Todos nuestros moteles tienen servicio de comida; cuenta con un amplio menú; desayuno, comida, cena o extensa carta de bebidas con y sin alcohol."
+            },
+            {
+                "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/servicios/sexshop.jpg",
+                "title": "SEXSHOP",
+                "description": "Déjate llevar por el placer con un amplio catálogo de juguetes sexuales para experimentar nuevas sensaciones y cumplir todas tus fantasías."
+            },
+            {
+                "Coverimage": "https://moteles-vp-mx.s3.amazonaws.com/img/servicios/estacionamiento.jpg",
+                "title": "ESTACIONAMIENTO",
+                "description": "En algunos de nuestro moteles contamos con estacionamiento y así garantizar la seguridad de tu automóvil."
+            },
+            {
+                "Coverimage": "https://moteles-vp-mx.s3.amazonaws.com/img/servicios/garage.jpg",
+                "title": "GARAGE PRIVADO",
+                "description": "Garage propio y seguro en cada habitación para que tu estancia sea totalmente íntima y muy discreta."
+            },
+            {
+                "Coverimage": "https://moteles-vp-mx.s3.amazonaws.com/img/servicios/room-service.jpg",
+                "title": "ROOM SERVICE",
+                "description": "Disfruta de nuestros platillos y bebidas con servicio a tu habitación. Horarios de restaurante: domingo a jueves de 8:00 a.m a 11:00 p.m. Viernes y sábado de 8:00 AM. a 2:00 Am. Horarios de bar: las 24 horas."
+            }
+        ],
+        "opinions":[
+            {
+                "name": "SILVIA MOLINA",
+                "comentary": "Escogí una excelente lugar para celebrar mi aniversario de novios, aún estoy emocionada."
+            },
+            {
+                "name": "RICARDO ALFARO",
+                "comentary" : "La sauna de la habitación baby pool está increíble, la mejor opción."
+            },
+            {
+                "name": "ALEJANDRA FARRERA",
+                "comentary" : "Me encanta el concepto, me pareció muy romántico."
+            },    
+            {
+                "name": "JULIO PINEDA",
+                "comentary" : "Este motel ya es uno de mis favoritos, sobre todo recomiendo el jacuzzi."
+            }
+        ]
+    }
+}

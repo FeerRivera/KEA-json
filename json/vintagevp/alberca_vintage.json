@@ -1,0 +1,99 @@
+{
+    "suitejacuzi": {
+        "name": "SUPER SUITE",
+        "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/vintage/super_suite/desktop/super_suite_01.png",
+        "description":"Déjate seducir por el poder y la sensualidad de nuestra bañera.",
+        "brandImage": "https://moteles-vp-mx.s3.amazonaws.com/img/logos/logo-moteles-vp.png",
+        "contact": { 
+            "correo": "ayuda@motelesvp.com",
+            "facebook": "https://www.facebook.com/MotelesVPMX",
+            "twitter" : "https://twitter.com/MotelesVpMx",
+            "instagram" : "https://www.instagram.com/motelesvpmx/?hl=en",
+            "adress": "José María Morelos y Pavon 100 Col. San Lucas Tlalnepantla. Estado de México. 54055.",
+            "tel":[
+                "+52 1 55 8751 8318",
+                "52 1 55 8751 8317"
+            ]  
+       },
+       "depiction": "Déjate seducir por el poder y la sensualidad de nuestra bañera, diseñada para que tú y tu pareja disfruten de una experiencia inigualable.",
+       "amenities": [
+        "TV / Pantalla",
+        "WiFi",
+        "TV por Cable",
+        "Canal para Adultos",
+        "Equipo de Sonido",
+        "Aire Acondicionado",
+        "Cama King Size",
+        "Accesorios de Baño",
+        "Sala",
+        "Bar",
+        "Estacionamiento"
+        ],
+        "atractions": [
+            "Jacuzzi",
+            "Potro del Amor",
+            "Hidromasaje"
+        ],
+        "rateWeek": [
+            {
+                "day": "Lunes",
+                "rate":"$790.00MXN",
+                "time ": "8Hrs"
+            },
+            {
+                "day": "Martes",
+                "rate":"$790.00MXN",
+                "time ": "8Hrs"
+            },
+            {
+                "day": "Miercoles",
+                "rate":"$790.00MXN",
+                "time ": "8Hrs"
+            },
+            {
+                "day": "Jueves",
+                "rate":"$790.00MXN",
+                "time ": "8Hrs"
+            },
+            {
+                "day": "Viernes",
+                "rate":"$790.00MXN",
+                "time ": "8Hrs"
+            },
+            {
+                "day": "Sabado",
+                "rate":"$790.00MXN",
+                "time ": "8Hrs"
+            },
+            {
+                "day": "Domingo",
+                "rate":"$790.00MXN",
+                "time ": "8Hrs"
+            }
+
+        ],
+       
+       "images ": [
+            {
+                "image": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/vintage/super_suite/desktop/super_suite_01.png"
+            },
+            {
+                "image": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/vintage/super_suite/desktop/super_suite_02.png"
+            },
+            {
+                "image": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/vintage/super_suite/desktop/super_suite_03.png"
+            },
+            {
+                "image": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/vintage/super_suite/desktop/super_suite_04.png"
+            },
+            {
+                "image": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/vintage/super_suite/desktop/super_suite_05.png"
+            },
+            {
+                "image": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/vintage/super_suite/desktop/super_suite_06.png"
+            }
+        ]
+        
+    }
+    
+}

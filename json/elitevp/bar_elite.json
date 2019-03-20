@@ -1,26 +1,33 @@
 {
-    "preguntas": {
+    "bar": {
         "nameHotel": "VP VINTAGE",
-        "name": "FAQ",
-        "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/faq/header/faq.jpg",
+        "name": "BAR",
+        "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/vintage/super_suite/desktop/super_suite_01.png",
+        "description":"Las mejores bebidas nacionales e importadas",
         "brandImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/restaurant/header/restaurant.jpg",
-        "contacto": { 
-            "correo": "ayuda@motelesvp.com",
+        "services": 
+                {
+                "horary": "Lunes a Domingo 24 hrs"
+                },
+        "contact": { 
+            "email": "ayuda@motelesvp.com",
             "facebook": "https://www.facebook.com/MotelesVPMX",
             "twitter" : "https://twitter.com/MotelesVpMx",
             "instagram" : "https://www.instagram.com/motelesvpmx/?hl=en",
-            "Dirección": "José María Morelos y Pavon 100 Col. San Lucas Tlalnepantla. Estado de México. 54055.",
+            "adress": "José María Morelos y Pavon 100 Col. San Lucas Tlalnepantla. Estado de México. 54055.",
             "tel":[
                 "+52 1 55 8751 8318",
                 "52 1 55 8751 8317"
             ]  
        },
       
-       "bebidas":{
-            "TEQUILA": {
-                "imagen": " https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/tequila.jpg ",
+       "menu":[
+
+            {
+                "name": "TEQUILA",
+                "coverImage": " https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/tequila.jpg ",
             
-                "alcohol" : [
+                "products" : [
                     "100 años",
                     "Cazadores reposado",
                     "Centenario Azul reposado",
@@ -43,10 +50,11 @@
                     "Tres generaciones reposado"
                 ]
             },
-            "VODKA": {
-                "imagen": " https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/vodka.jpg ",
+            {
+                "name": "VODKA",
+                "coverImag": " https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/vodka.jpg ",
                 
-                "": [
+                "products": [
                     "Absolute",
                     "Absolute Citron",
                     "Belvedere",
@@ -58,10 +66,11 @@
                     "Wyborowa"
                 ]
             },
-            "RON": {
-                "imagen": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/ron.jpg",
+            {
+                "name": "RON",
+                "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/ron.jpg",
 
-                "": [
+                "products": [
                     "Appleton blanco",
                     "Appleton dorado",
                     "Appleton estate",
@@ -77,10 +86,11 @@
                     "G RVA"
                 ]
             },   
-            "WHISKY": {
-                "imagen":"https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/whisky.jpg ",
+            {
+                "name":"WHISKY",
+                "coverImage":"https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/whisky.jpg ",
 
-                "bebidas":[
+                "products":[
                     "Buchanans 12 años",
                     "Chivas Regal 12 años",
                     "J&B",
@@ -90,10 +100,11 @@
                     "Macallan 12 años"
                 ]
             },
-            "BRANDY": {
+            {
+                "name": "BRANDY",
                 "imagen": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/brandy.jpg",
 
-                "":[
+                "products":[
                     "Azteca de oro",
                     "Cardenal de mendoza",
                     "Carlos I",
@@ -105,20 +116,22 @@
                     "Torres 10"
                  ]
             },
-            "COGÑAC": {
-                "imagen": " https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/coniac.jpg ",
+            {
+                "name": "COGÑAC",
+                "coverImage": " https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/coniac.jpg ",
 
-                "": [
+                "products": [
                     "Martell Medallón V.S.O.P.",
                     "Hennessy Cogñac V.S.O.P",
                     "Rémy Martin XO",
                     "Especial"
                 ]
             },
-            "CHAMPAGNE": {
-                "imagen": " https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/champagne.jpg ",
+            {
+                "name": "CHAMPAGNE",
+                "coverImage": " https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/champagne.jpg ",
 
-                "": [
+                "products": [
                     "Dom Perignon",
                     "Moët & Chandon Brut",
                     "Moët & Chandon Nectar",
@@ -126,7 +139,7 @@
                     "Veuve Clicquot Brut"
                 ]
             }
-       }
+        ]
     }
     
 }

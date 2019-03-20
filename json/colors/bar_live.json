@@ -1,0 +1,249 @@
+{
+    "bar": {
+        "nameHotel": "VP LIVE COLORS",
+        "name": "BAR",
+        "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/header/bar.jpg",
+        "descripcion":"Las mejores bebidas nacionales e importadas",
+        "brandImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/restaurant/header/restaurant.jpg",
+        "servicios": 
+                {
+                "horarios": "Lunes a Domingo 24 hrs"
+                },
+        "contact": { 
+            "email": "ayuda@motelesvp.com",
+            "facebook": "https://www.facebook.com/MotelesVPMX",
+            "twitter" : "https://twitter.com/MotelesVpMx",
+            "instagram" : "https://www.instagram.com/motelesvpmx/?hl=en",
+            "adress": "Av. Ing Eduardo Molina 5811 Gertrudis Sánchez II Secc Ciudad de México.  C.P. 07839.",
+            "tel":[
+                "+52 1 55 2790 7498",
+                "+52 1 55 2790 7499"
+            ]    
+       },
+      
+       "menu":[
+
+        {
+            "name": "TEQUILA",
+            "coverImage": " https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/tequila.jpg ",
+        
+            "products" : [
+                "Jimador",
+                "Cuervo tradicional plata",
+                "Cuervo tradicional reposado",
+                "Cuervo tradicional 1800 reposado",
+                "Cuervo tradicional 1800 añejo",
+                "Don julio blanco",
+                "Don julio reposado",
+                "Herradura reposado"
+            ]
+        },
+        {
+            "name": "VODKA",
+            "coverImag": " https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/vodka.jpg ",
+            
+            "products": [
+                "Absolut",
+                "Absolut Azul",
+                "Smirnoff"
+            ]
+        },
+        {
+            "name": "RON",
+            "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/ron.jpg",
+
+            "products": [
+                "Appleton estate",
+                "Bacardí añejo",
+                "Bacardí blanco",
+                "Bacardí solera",
+                "Havana 7",
+                "Malibu"
+            ]
+        },   
+        {
+            "name":"WHISKY",
+            "coverImage":"https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/whisky.jpg ",
+
+            "products":[
+                "Buchanans 12 años",
+                "Chivas Regal 12 años",
+                "J&B",
+                "Johnnie Walker Black",
+                "Johnnie Walker Red",
+                "Black & White"
+            ]
+        },
+        {
+            "name": "BRANDY",
+            "imagen": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/brandy.jpg",
+
+            "products":[
+                "Azteca de oro",
+                "Presidente",
+                "Terry",
+                "Torres 10"
+             ]
+        },
+        {
+            "name": "COGÑAC",
+            "coverImage": " https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/coniac.jpg ",
+
+            "products": [
+                "Martell V.S.O.P."
+            ]
+        },
+        {
+            "name": "CHAMPAGNE",
+            "coverImage": " https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/champagne.jpg ",
+
+            "products": [
+                "Dom Perignon",
+                "Moët & Chandon Brut",
+                "Moët & Chandon Nectar",
+                "Moët & Chandon Fose",
+                "Veuve Clicquot Brut"
+            ]
+        },
+        {
+            "name": "BEBIDAS PREPARADAS",
+            "coverImage": " https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/bebidas_preparadas.jpg ",
+
+            "products": [
+                "Bloody Mary",
+                "Carajillo",
+                "Clamato",
+                "Clamato con vodka o ron",
+                "Conga",
+                "Jarra de limonada o naranjada (chica mineral o natural)",
+                "Jarra de limonada o naranjada (grande mineral o natural)",
+                "Limonada",
+                "Margarita",
+                "Medias de seda",
+                "Michelada",
+                "Naranjada",
+                "Piedra",
+                "Piña colada con vodka o ron",
+                "Piña colada sin alcohol",
+                "Sangría"
+            ]
+        },
+        {
+            "name": "BEBIDAS ENERGÉTICAS",
+            "coverImage": " https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/bebidas_energeticas.jpg ",
+
+            "products": [
+                "Boost",
+                "Red Bull"
+            ]
+        },
+        {
+            "name": "GINEBRA",
+            "coverImage": "  https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/ginebra.jpg  ",
+
+            "products": [
+                "Beefeater",
+                "Bombay sapphire",
+                "Tanqueray"
+            ]
+        },
+        {
+            "name": "BEBIDAS REFRESCANTES",
+            "coverImage": " https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/bebidas_refrescantes.jpg ",
+
+            "products": [
+                "Caribe cooler",
+                "Sangría viña real",
+                "New Mix",
+                "Refrescos"
+            ]
+        },
+        {
+            "name": "CAVA",
+            "coverImage": " https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/cava.jpg ",
+
+            "products": [
+                "Asti cinzano dolce",
+                "Freixenet cordon negro"
+            ]
+        },
+        {
+            "name": "VINO TINTO",
+            "coverImage": " https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/vino_tinto.jpg ",
+
+            "products": [
+                "Tres medallas cabernet sauvignon",
+                "Casa Madero 3V",
+                "Casillero del diablo cabernet sauvignon",
+                "Concha y toro cabernet sauvignon",
+                "Cune imperial crianza",
+                "Emina crianza",
+                "Faustino I",
+                "Marqués de riscal rioja",
+                "Matarromera crianza",
+                "Pago de carraovejas crianza",
+                "Pesquera crianza",
+                "Protos crianza",
+                "X A"
+            ]
+        },
+        {
+            "name": "VINO BLANCO",
+            "coverImage": "  https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/vino_blanco.jpg ",
+
+            "products": [
+                "Blue rhin liebfraumilch",
+                "Diamante"
+            ]
+        },
+        {
+            "name": "CORDIALES",
+            "coverImage": "  https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/vino_blanco.jpg ",
+
+            "products": [
+                "Anís chinchón dulce",
+                "Baileys",
+                "Licor 43",
+                "Amaretto Disaronno",
+                "Licor Jagermeister"
+            ]
+        },
+        {
+            "name": "MEZCAL",
+            "coverImage": " https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/mezcal.jpg  ",
+            "products": [
+                "Zignum silver",
+                "400 conejos joven 100%",
+                "Clásico de gusano rojo jov. 100%",
+                "Amores joven 100% espadin"
+            ]
+        },
+        {
+            "name": "CERVEZA",
+            "coverImage": " https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/cerveza.jpg ",
+
+            "products": [
+                "Corona",
+                "Indio",
+                "Pacífico",
+                "León",
+                "XX Lager",
+                "Sol",
+                "Bohemia",
+                "Negra modelo",
+                "Modelo especial",
+                "Modelo especial (lata)"
+            ]
+        },
+        {
+            "name": "OTROS",
+            "coverImage": " https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/otros.jpg ",
+
+            "products": [
+                "Hielera"
+            ]
+        }
+    ]
+}
+
+}

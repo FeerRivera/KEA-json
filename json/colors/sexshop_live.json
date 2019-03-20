@@ -1,28 +1,27 @@
 {
-    "bar": {
-        "nameHotel": "VP VINTAGE",
-        "name": "BAR",
-        "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/vintage/super_suite/desktop/super_suite_01.png",
-        "description":"Las mejores bebidas nacionales e importadas",
+    "sexshop": {
+        "nameHotel": "VP LIVE COLORS",
+        "name": "SEXSHOP",
+        "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/header/bar.jpg",
+        "descripcion":"Las mejores bebidas nacionales e importadas",
         "brandImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/restaurant/header/restaurant.jpg",
-        "services": 
+        "servicios": 
                 {
-                "horary": "Lunes a Domingo 24 hrs"
+                "horarios": "Lunes a Domingo 24 hrs"
                 },
         "contact": { 
             "email": "ayuda@motelesvp.com",
             "facebook": "https://www.facebook.com/MotelesVPMX",
             "twitter" : "https://twitter.com/MotelesVpMx",
             "instagram" : "https://www.instagram.com/motelesvpmx/?hl=en",
-            "adress": "José María Morelos y Pavon 100 Col. San Lucas Tlalnepantla. Estado de México. 54055.",
+            "adress": "Av. Ing Eduardo Molina 5811 Gertrudis Sánchez II Secc Ciudad de México.  C.P. 07839.",
             "tel":[
-                "+52 1 55 8751 8318",
-                "52 1 55 8751 8317"
-            ]  
+                "+52 1 55 2790 7498",
+                "+52 1 55 2790 7499"
+            ]    
        },
-      
-      
-       "menu":[
+    
+    "menu":[
         {
             "name": "LUBRICANTES",
             "coverimage": " https://moteles-vp-mx.s3.amazonaws.com/img/motel/sexshop/lubricantes.jpg ",

@@ -1,8 +1,8 @@
 {
     "bar": {
-        "nameHotel": "VP VINTAGE",
+        "nameHotel": "VP NEZA",
         "name": "BAR",
-        "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/vintage/super_suite/desktop/super_suite_01.png",
+        "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/header/bar.jpg",
         "description":"Las mejores bebidas nacionales e importadas",
         "brandImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/restaurant/header/restaurant.jpg",
         "services": 
@@ -14,11 +14,10 @@
             "facebook": "https://www.facebook.com/MotelesVPMX",
             "twitter" : "https://twitter.com/MotelesVpMx",
             "instagram" : "https://www.instagram.com/motelesvpmx/?hl=en",
-            "adress": "José María Morelos y Pavon 100 Col. San Lucas Tlalnepantla. Estado de México. 54055.",
+            "adress": "Vallejo 382 Col. Ampliación Vicente Villada Estado de México. C.P. 57710.",
             "tel":[
-                "+52 1 55 8751 8318",
-                "52 1 55 8751 8317"
-            ]  
+                "+52 1 55 5742 7203"
+            ]    
        },
       
        "menu":[
@@ -137,6 +136,129 @@
                     "Moët & Chandon Nectar",
                     "Moët & Chandon Fose",
                     "Veuve Clicquot Brut"
+                ]
+            },
+            {
+                "name": "BEBIDAS PREPARADAS",
+                "coverImage": " https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/bebidas_preparadas.jpg ",
+
+                "products": [
+                    "Bloody Mary",
+                    "Carajillo",
+                    "Clamato",
+                    "Clamato con vodka o ron",
+                    "Conga",
+                    "Jarra de limonada o naranjada (chica mineral o natural)",
+                    "Jarra de limonada o naranjada (grande mineral o natural)",
+                    "Limonada",
+                    "Margarita",
+                    "Medias de seda",
+                    "Michelada",
+                    "Naranjada",
+                    "Piedra",
+                    "Piña colada con vodka o ron",
+                    "Piña colada sin alcohol",
+                    "Sangría"
+                ]
+            },
+            {
+                "name": "BEBIDAS ENERGÉTICAS",
+                "coverImage": " https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/bebidas_energeticas.jpg ",
+
+                "products": [
+                    "Boost",
+                    "Red Bull"
+                ]
+            },
+            {
+                "name": "GINEBRA",
+                "coverImage": "  https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/ginebra.jpg  ",
+
+                "products": [
+                    "Beefeater",
+                    "Bombay sapphire",
+                    "Hendricks",
+                    "Oso negro",
+                    "Tanqueray"
+                ]
+            },
+            {
+                "name": "BEBIDAS REFRESCANTES",
+                "coverImage": " https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/bebidas_refrescantes.jpg ",
+
+                "products": [
+                    "Caribe cooler",
+                    "Sangría viña real",
+                    "New Mix",
+                    "Refrescos"
+                ]
+            },
+            {
+                "name": "CAVA",
+                "coverImage": " https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/cava.jpg ",
+
+                "products": [
+                    "Asti cinzano dolce",
+                    "Brut Codorniu",
+                    "Freixenet cordon negro",
+                    "Monopole",
+                    "Petillant brut"
+                ]
+            },
+            {
+                "name": "VINO TINTO",
+                "coverImage": " https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/vino_tinto.jpg ",
+
+                "products": [
+                    "Tres medallas cabernet sauvignon",
+                    "Casa Madero 3V",
+                    "Casillero del diablo cabernet sauvignon",
+                    "Concha y toro cabernet sauvignon",
+                    "Cune imperial crianza",
+                    "Emina crianza",
+                    "Faustino I",
+                    "Marqués de riscal rioja",
+                    "Matarromera crianza",
+                    "Pago de carraovejas crianza",
+                    "Pesquera crianza",
+                    "Protos crianza",
+                    "X A"
+                ]
+            },
+            {
+                "name": "VINO BLANCO",
+                "coverImage": "  https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/vino_blanco.jpg ",
+
+                "products": [
+                    "Blue rhin liebfraumilch",
+                    "Condes de albarei",
+                    "Diamante",
+                    "Lagar de cervera",
+                    "Lancers imperial",
+                    "Liebfraumilch",
+                    "Marqués de Cáceres",
+                    "Marqués de riscal"
+                ]
+            },
+            {
+                "name": "CORDIALES",
+                "coverImage": "  https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/vino_blanco.jpg ",
+
+                "products": [
+                    "Amaretto disaronno",
+                    "Amaretto vaccari",
+                    "Anís chinchón dulce",
+                    "Anís chinchón seco",
+                    "Anís dulce cadenas",
+                    "Anís mico",
+                    "Anís del mono",
+                    "Baleys",
+                    "Frangelico",
+                    "Jägermeister",
+                    "Licor 43",
+                    "Licor Avellana",
+                    "Midori",
+                    "Pacharán basarana"
                 ]
             }
         ]

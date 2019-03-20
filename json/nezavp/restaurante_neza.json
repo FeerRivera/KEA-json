@@ -1,30 +1,25 @@
 {
     "restaurant": {
-        "nameHotel": "VP VINTAGE",
+        "nameHotel": "VP NEZA",
         "name": "RESTAURANTE",
-        "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/vintage/super_suite/desktop/super_suite_01.png",
-        "description":"Los Alimentos y bebidas son preparados con la más alta calidad.",
+        "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/bar/header/bar.jpg",
+        "description":"Las mejores bebidas nacionales e importadas",
         "brandImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/restaurant/header/restaurant.jpg",
-        "services":[ 
-            "Servicio de restaurante (Room Service)",
-            {
-                "horarios": "Domingo a Jueves 8:00 a 23:00 hrs Viernes y Sábado 8:00 a 2:00 hrs"
-                
-            }
-        ],
+        "services": 
+                {
+                "horary": "Lunes a Domingo 24 hrs"
+                },
         "contact": { 
             "email": "ayuda@motelesvp.com",
             "facebook": "https://www.facebook.com/MotelesVPMX",
             "twitter" : "https://twitter.com/MotelesVpMx",
             "instagram" : "https://www.instagram.com/motelesvpmx/?hl=en",
-            "adress": "José María Morelos y Pavon 100 Col. San Lucas Tlalnepantla. Estado de México. 54055.",
+            "adress": "Vallejo 382 Col. Ampliación Vicente Villada Estado de México. C.P. 57710.",
             "tel":[
-                "+52 1 55 8751 8318",
-                "52 1 55 8751 8317"
-            ]  
+                "+52 1 55 5742 7203"
+            ]    
        },
-      
-       "menu": [
+       "menú": [
         {
             "name": "Carnes y Aves",
             "coverImage": " https://moteles-vp-mx.s3.amazonaws.com/img/motel/restaurant/carnes_aves.jpg",
@@ -165,8 +160,7 @@
                 "Gringa"
             ]
         }
-     ]
-    }
-
+    ]
 }
 
+}

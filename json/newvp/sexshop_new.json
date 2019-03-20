@@ -1,28 +1,23 @@
 {
-    "bar": {
-        "nameHotel": "VP VINTAGE",
-        "name": "BAR",
-        "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/vintage/super_suite/desktop/super_suite_01.png",
-        "description":"Las mejores bebidas nacionales e importadas",
-        "brandImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/restaurant/header/restaurant.jpg",
-        "services": 
-                {
-                "horary": "Lunes a Domingo 24 hrs"
-                },
-        "contact": { 
-            "email": "ayuda@motelesvp.com",
-            "facebook": "https://www.facebook.com/MotelesVPMX",
-            "twitter" : "https://twitter.com/MotelesVpMx",
-            "instagram" : "https://www.instagram.com/motelesvpmx/?hl=en",
-            "adress": "José María Morelos y Pavon 100 Col. San Lucas Tlalnepantla. Estado de México. 54055.",
-            "tel":[
-                "+52 1 55 8751 8318",
-                "52 1 55 8751 8317"
-            ]  
-       },
+    "sexshop": {
+    "hotelName": "VP NEW",
+    "name": "FAQ",
+    "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/faq/header/faq.jpg",
+    "brandImage": "https://moteles-vp-mx.s3.amazonaws.com/img/logos/logo-new.png",
+    "contact": { 
+        "email": "ayuda@motelesvp.com",
+        "facebook": "https://www.facebook.com/MotelesVPMX",
+        "twitter" : "https://twitter.com/MotelesVpMx",
+        "instagram" : "https://www.instagram.com/motelesvpmx/?hl=en",
+        "adress": "Paganini 120, Interior 2 Col. Vallejo, Gustavo A. Madero Ciudad de México. C.P. 07870.",
+        "tel":[
+            "+52 1 55 5517 7800",
+            "+52 1 55 5537 0542",
+            "+52 1 55 5537 0725"
+        ]    
+   }, 
       
-      
-       "menu":[
+      "menu":[
         {
             "name": "LUBRICANTES",
             "coverimage": " https://moteles-vp-mx.s3.amazonaws.com/img/motel/sexshop/lubricantes.jpg ",
