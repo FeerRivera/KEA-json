@@ -1,0 +1,118 @@
+{
+    "simple": {
+        "name": "HABITACIÓN SENCILLA",
+        "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/new/sencilla/desktop/motel_sencilla_01.jpg",
+        "description":"Ideal para realizar posturas excitantes del kamasutra.",
+        "brandImage": "https://moteles-vp-mx.s3.amazonaws.com/img/logos/logo-new.png",
+        "contact": { 
+            "email": "ayuda@motelesvp.com",
+            "facebook": "https://www.facebook.com/MotelesVPMX",
+            "twitter" : "https://twitter.com/MotelesVpMx",
+            "instagram" : "https://www.instagram.com/motelesvpmx/?hl=en",
+            "adress": "Paganini 120, Interior 2 Col. Vallejo, Gustavo A. Madero Ciudad de México. C.P. 07870.",
+            "tel":[
+                "+52 1 55 5517 7800",
+                "+52 1 55 5537 0542",
+                "+52 1 55 5537 0725"
+            ]    
+       },
+       "depiction": "Luces de LEDS con iluminación indirecta decoran el techo de la cama king size. El espejo contra la pared es una ideal para realizar posturas excitantes del kamasutra.",
+       "amenities": [
+        "TV / Pantalla",
+        "DVD/Blu-ray",
+        "WiFi",
+        "TV por Cable",
+        "Canal para Adultos",
+        "Equipo de Sonido",
+        "Aire Acondicionado",
+        "Cama King Size",
+        "Accesorios de Baño",
+        "Sillón",
+        "Sala",
+        "Bar",
+        "Garage Privado"
+        ],
+        "atractions": [
+            "Potro del Amor"
+        ],
+        "rateWeek": [
+            {
+                "day": "Lunes",
+                "rate":"$320.00MXN",
+                "time ": "6Hrs"
+            },
+            {
+                "day": "Martes",
+                "rate":"$320.00MXN",
+                "time ": "6Hrs"
+            },
+            {
+                "day": "Miercoles",
+                "rate":"$320.00MXN",
+                "time ": "6Hrs"
+            },
+            {
+                "day": "Jueves",
+                "rate":"$320.00MXN",
+                "time ": "6Hrs"
+            },
+            {
+                "day": "Viernes",
+                "rate":"$320.00MXN",
+                "time ": "6Hrs"
+            },
+            {
+                "day": "Sabado",
+                "rate":"$320.00MXN",
+                "time ": "6Hrs"
+            },
+            {
+                "day": "Domingo",
+                "rate":"$320.00MXN",
+                "time ": "6Hrs"
+            }
+
+        ],
+       
+       "images": [
+            {
+                "image": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/new/sencilla/desktop/motel_sencilla_01.jpg"
+            },    
+            {
+                "image": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/new/sencilla/desktop/motel_sencilla_02.jpg"
+            },
+            {
+                "image": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/new/sencilla/desktop/motel_sencilla_03.jpg"
+            },
+            {
+                "image": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/new/sencilla/desktop/motel_sencilla_04.jpg"
+            },
+            {
+                "image": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/new/sencilla/desktop/motel_sencilla_05.jpg"
+            }
+        ],
+        "opinions":[
+            {
+                "name": "SILVIA MOLINA",
+                "comentary": "Escogí una excelente lugar para celebrar mi aniversario de novios, aún estoy emocionada."
+            },
+            {
+                "name": "RICARDO ALFARO",
+                "comentary" : "La sauna de la habitación baby pool está increíble, la mejor opción."
+            },
+            {
+                "name": "ALEJANDRA FARRERA",
+                "comentary" : "Me encanta el concepto, me pareció muy romántico."
+            },    
+            {
+                "name": "JULIO PINEDA",
+                "comentary" : "Este motel ya es uno de mis favoritos, sobre todo recomiendo el jacuzzi."
+            }
+        ]
+        
+    }
+    
+}
+
+
+

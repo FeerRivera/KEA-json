@@ -1,0 +1,95 @@
+{
+    "hotel":{
+        "about": "Una mezcla entre la elegancia y el erotismo harán que tus noches se llenen de momentos únicos. Ven a experimentar nuevas posiciones en nuestro potro del amor con forma de león y a sumergirte en nuestras bañeras que te darán una experiencia inolvidable.",
+        "brandImage": "https://moteles-vp-mx.s3.amazonaws.com/img/logos/logo-moteles-vp.png",
+        "contact": { 
+            "email": "ayuda@motelesvp.com",
+            "facebook": "https://www.facebook.com/MotelesVPMX",
+            "twitter" : "https://twitter.com/MotelesVpMx",
+            "instagram" : "https://www.instagram.com/motelesvpmx/?hl=en",
+            "adress": "José María Morelos y Pavon 100 Col. San Lucas Tlalnepantla. Estado de México. 54055.",
+            "tel":[
+                "+52 1 55 8751 8318",
+                "52 1 55 8751 8319"
+            ]    
+            
+        },
+        "room": [
+            {
+                "name": "HABITACION SUITE JACUZZI",
+                "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/vintage/suite_jacuzzi/desktop/suite_jacuzzi_01.png",
+                "lowerFare":  "Desde $990.00MXN",
+                "description": "El placer y el erotismo se reúnen en cada burbuja de nuestro sexy jacuzzi.",
+                "website": "http://motelesvp.com/motel/motel-vp-vintage/suite-jacuzzi"
+            },
+            {
+                "name": "HABITACION SUPER SUITE",
+                "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/vintage/super_suite/desktop/super_suite_01.png",
+                "lowerFare": "Desde $790.00MXN",
+                "description": "Dejate seducir por el poder y la sensualidad de nuestra beñera.", 
+                "website": "http://motelesvp.com/motel/motel-vp-vintage/super-suite"
+            },
+            {
+                "name": "HABITACION SUITE STANDAR",
+                "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/vintage/suite_standard/desktop/suite_standard_01.png",
+                "lowerFare": "Desde $690.00MXN",
+                "description": "Nuestro león del amor hará rugir cada centimetro de tu piel.", 
+                "website": "http://motelesvp.com/motel/motel-vp-vintage/suite-standard"
+            },
+            {
+                "name": "HABITACION MINI SUITE",
+                "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/vintage/mini_suite/desktop/mini_suite_01.png",
+                "lowerFare": "Desde $590.00MXN",
+                "description": "Diseñada para esas parejas que buscan la elegancia.", 
+                "website": "http://motelesvp.com/motel/motel-vp-vintage/mini-suite"
+            },
+            {
+                "name": "HABITACION VINTAGE ALBERCA",
+                "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/vintage/alberca/desktop/habitacion_alberca_01.jpg",
+                "lowerFare": "Desde $2,900.00MXN",
+                "description": "Un oasis de pasión en nuestra habitación alberca.", 
+                "website": "http://motelesvp.com/motel/motel-vp-vintage/vintage-alberca"
+            }
+        ],
+        "restaurant": {
+            "name": "RESTAURANTE",
+            "website": "http://motelesvp.com/motel/motel-vp-vintage/restaurante"
+        },
+        "sexshop": {
+            "name": "SEXSHOP",
+            "website": "http://motelesvp.com/motel/motel-vp-vintage/sexshop"
+        },
+        "frequentQuestions": {
+            "name": "FAQ",
+            "website": "http://motelesvp.com/motel/motel-vp-vintage/faq"
+
+        },
+        "servicios": [
+            {
+                "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/servicios/restaurante.jpg",
+                "name": "RESTAURANTE-BAR",
+                "description": "Todos nuestros moteles tienen servicio de comida; cuenta con un amplio menú; desayuno, comida, cena o extensa carta de bebidas con y sin alcohol."
+            },
+            {
+                "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/servicios/sexshop.jpg",
+                "title": "SEXSHOP",
+                "description": "Déjate llevar por el placer con un amplio catálogo de juguetes sexuales para experimentar nuevas sensaciones y cumplir todas tus fantasías."
+            },
+            {
+                "Coverimage": "https://moteles-vp-mx.s3.amazonaws.com/img/servicios/estacionamiento.jpg",
+                "title": "ESTACIONAMIENTO",
+                "description": "En algunos de nuestro moteles contamos con estacionamiento y así garantizar la seguridad de tu automóvil."
+            },
+            {
+                "Coverimage": "https://moteles-vp-mx.s3.amazonaws.com/img/servicios/garage.jpg",
+                "title": "GARAGE PRIVADO",
+                "description": "Garage propio y seguro en cada habitación para que tu estancia sea totalmente íntima y muy discreta."
+            },
+            {
+                "Coverimage": "https://moteles-vp-mx.s3.amazonaws.com/img/servicios/room-service.jpg",
+                "title": "ROOM SERVICE",
+                "description": "Disfruta de nuestros platillos y bebidas con servicio a tu habitación. Horarios de restaurante: domingo a jueves de 8:00 a.m a 11:00 p.m. Viernes y sábado de 8:00 AM. a 2:00 Am. Horarios de bar: las 24 horas."
+            }
+        ]
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "suite": {
+        "name": "HABITACIÓN JACUZZI",
+        "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/elite/suite/desktop/motel_suite_01.jpg",
+        "description":"Usa el sillon de kamasutra para esos momentos de lujuria.",
+        "brandImage": "https://moteles-vp-mx.s3.amazonaws.com/img/logos/logo-elite.png",
+        "contact": { 
+            "email": "ayuda@motelesvp.com",
+            "facebook": "https://www.facebook.com/MotelesVPMX",
+            "twitter" : "https://twitter.com/MotelesVpMx",
+            "instagram" : "https://www.instagram.com/motelesvpmx/?hl=en",
+            "adress": "Calzada San Agustín 1 Col. 10 de Abril, Naucalpan de Juárez Estado de México. C.P. 53320.",
+            "tel":[
+                "+52 1 55 6726 4066"
+            ]    
+       },
+       "depiction": "Sin duda esta habitación, además de contar con el sillón del kamasutra para esos momentos de lujuria, la iluminación de la cama te ayudará a echar a volar tu imaginación.",
+       "amenities": [
+        "TV / Pantalla",
+        "DVD/Blu-ray",
+        "WiFi",
+        "TV por Cable",
+        "Canal para Adultos",
+        "Equipo de Sonido",
+        "Aire Acondicionado",
+        "Cama King Size",
+        "Accesorios de Baño",
+        "Sillón",
+        "Sala",
+        "Bar",
+        "Garage Privado"
+        ],
+        "attractions": [
+            "Potro del Amor"
+        ],
+        "rateWeek": [
+            {
+                "day": "Lunes",
+                "rate":"$470.00MXN",
+                "time ": "6Hrs"
+            },
+            {
+                "day": "Martes",
+                "rate":"$470.00MXN",
+                "time ": "6Hrs"
+            },
+            {
+                "day": "Miercoles",
+                "rate":"$470.00MXN",
+                "time ": "6Hrs"
+            },
+            {
+                "day": "Jueves",
+                "rate":"$470.00MXN",
+                "time ": "6Hrs"
+            },
+            {
+                "day": "Viernes",
+                "rate":"$470.00MXN",
+                "time ": "6Hrs"
+            },
+            {
+                "day": "Sabado",
+                "rate":"$470.00MXN",
+                "time ": "6Hrs"
+            },
+            {
+                "day": "Domingo",
+                "rate":"$470.00MXN",
+                "time ": "6Hrs"
+            }
+
+        ],
+       
+       "images": [
+            {
+                "image": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/elite/suite/desktop/motel_suite_01.jpg"
+            },    
+            {
+                "image": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/elite/suite/desktop/motel_suite_02.jpg"
+            },
+            {
+                "image": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/elite/suite/desktop/motel_suite_03.jpg"
+            },
+            {
+                "image": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/elite/suite/desktop/motel_suite_04.jpg"
+            },
+            {
+                "image": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/elite/suite/desktop/motel_suite_05.jpg"
+            }
+        ],
+        "opinions":[
+            {
+                "name": "DANA MENDOZA",
+                "comentary": "Lo que me gustó es que siempre las habitaciones están limpias y eso me da mucha confianza."
+            },
+            {
+                "name": "PEPE ÁLVAREZ.",
+                "comentary" : "A mí novia le encantó la sorpresa que le di en su cumple. Privacidad y limpieza lo recomiendo."
+            },
+            {
+                "name": "VIVIANA GARCIA H.",
+                "comentary" : "Cada vez que voy con mi novio pedimos la habitación con jacuzzi, es la mejor."
+            },    
+            {
+                "name": "ROBERTO GOMEZ.",
+                "comentary" : "La habitación alberca me gustó mucho y las hamburguesas están muy buenas."
+            }
+        ]
+        
+    }
+    
+}

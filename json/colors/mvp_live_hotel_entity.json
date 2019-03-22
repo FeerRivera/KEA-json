@@ -1,0 +1,82 @@
+{
+    "hotel": {
+        "description":"Sensuales y divertidas habitaciones con detalles muy románticos que te invitan a cumplir tus más ardientes fantasías. La habitación sencilla y la habitación con jacuzzi tienen tubo para pole dance y potro del amor.",
+        "brandImage": "https://moteles-vp-mx.s3.amazonaws.com/img/logos/logo-live-colors.png",
+        "contact": { 
+            "email": "ayuda@motelesvp.com",
+            "facebook": "https://www.facebook.com/MotelesVPMX",
+            "twitter" : "https://twitter.com/MotelesVpMx",
+            "instagram" : "https://www.instagram.com/motelesvpmx/?hl=en",
+            "adress": "Av. Ing Eduardo Molina 5811 Gertrudis Sánchez II Secc Ciudad de México.  C.P. 07839.",
+            "tel":[
+                "+52 1 55 2790 7498",
+                "+52 1 55 2790 7499"
+            ]    
+       },
+        "room": [
+            {
+                "name": "HABITACION SENCILLA",
+                "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/live-colors/sencilla/desktop/motel_sencilla_01.jpg",
+                "lowerFare":  "Desde $290.00MXN",
+                "description": "La sensualidad y deseo a su máximo eplendor",
+                "website": "http://motelesvp.com/motel/motel-vp-live-colors/sencilla"
+            },
+            {
+                "name": "HABITACION JACUZZI",
+                "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/live-colors/jacuzzi/desktop/motel_jacuzzi_01.jpg",
+                "lowerFare": "Desde $360.00MXN",
+                "description": "Las burbujas del jacuzzi te llevaran al orgasmo", 
+                "website": "http://motelesvp.com/motel/motel-vp-live-colors/jacuzzi"
+            }
+        ],
+        "sexshop": {
+            "name": "SEXSHOP",
+            "website": "http://motelesvp.com/motel/motel-vp-live-colors/sexshop"
+        },
+        "frequentQuestions": {
+            "name": "FAQ",
+            "website": "http://motelesvp.com/motel/motel-vp-live-colors/faq"
+
+        },
+        "services": [
+            {
+                "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/servicios/restaurante.jpg",
+                "name": "RESTAURANTE-BAR",
+                "description": "Todos nuestros moteles tienen servicio de comida; cuenta con un amplio menú; desayuno, comida, cena o extensa carta de bebidas con y sin alcohol."
+            },
+            {
+                "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/servicios/sexshop.jpg",
+                "title": "SEXSHOP",
+                "description": "Déjate llevar por el placer con un amplio catálogo de juguetes sexuales para experimentar nuevas sensaciones y cumplir todas tus fantasías."
+            },
+            {
+                "Coverimage": "https://moteles-vp-mx.s3.amazonaws.com/img/servicios/garage.jpg",
+                "title": "GARAGE PRIVADO",
+                "description": "Garage propio y seguro en cada habitación para que tu estancia sea totalmente íntima y muy discreta."
+            },
+            {
+                "Coverimage": "https://moteles-vp-mx.s3.amazonaws.com/img/servicios/room-service.jpg",
+                "title": "ROOM SERVICE",
+                "description": "Disfruta de nuestros platillos y bebidas con servicio a tu habitación. Horarios de restaurante: domingo a jueves de 8:00 a.m a 11:00 p.m. Viernes y sábado de 8:00 AM. a 2:00 Am. Horarios de bar: las 24 horas."
+            }
+        ],
+        "opinions":[
+            {
+                "name": "ANDY lÓNI",
+                "comentari": "¡Lindoo, lindoo! Altamente recomendable y con ganas de quedarte unos 3 días ahí."
+            },
+            {
+                "name": "KARLA LÓPEZ",
+                "comentary" : "Pensé que las habitaciones eran chiquitas como otros moteles, lo recomiendo."
+            },
+            {
+                "name": "RODRIGO CAMACHO",
+                "comentary" : "No conocía este motel, me animé a ir y tuve una buena experiencia."
+            },    
+            {
+                "name": "DANIELA GÓMEZ",
+                "comentary" :"La atención es muy buena y las habitaciones están limpias, me gustó."
+            }
+        ]
+    }
+}

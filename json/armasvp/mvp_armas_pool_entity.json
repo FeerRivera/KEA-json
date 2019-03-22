@@ -1,0 +1,120 @@
+{
+    "pool": {
+        "name": "HABITACIÓN ALBERCA",
+        "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/armas/alberca/desktop/motel_alberca_01.jpg",
+        "description":"Dale rienda suelta a la pasión en la alberca con jacuzzi.",
+        "brandImage": "https://moteles-vp-mx.s3.amazonaws.com/img/logos/logo-armas.png",
+        "contact": { 
+            "email": "ayuda@motelesvp.com",
+            "facebook": "https://www.facebook.com/MotelesVPMX",
+            "twitter" : "https://twitter.com/MotelesVpMx",
+            "instagram" : "https://www.instagram.com/motelesvpmx/?hl=en",
+            "adress": "Calzada Las Armas 605 Col. Providencia, Azcapotzalco Ciudad de México. C.P. 02440.",
+            "tel":[
+                "+52 1 55 5318 1318"
+            ]    
+       },
+        "depiction": "Dale rienda suelta a la pasión en la alberca con jacuzzi que está acompañado de un techo móvil de cristal, recomendado para parejas que desean vivir una experiencia inolvidable.",
+        "amenities": [
+        "TV / Pantalla",
+        "DVD/Blu-ray",
+        "WiFi",
+        "TV por Cable",
+        "Canal para Adultos",
+        "Equipo de Sonido",
+        "Aire Acondicionado",
+        "Cama King Size",
+        "Accesorios de Baño",
+        "Sillón",
+        "Sala",
+        "Bar",
+        "Garage Privado"
+        ],
+        " attractions": [
+            "Jacuzzi",
+            "Potro del Amor",
+            "Muebles Eróticos",
+            "Hidromasaje",
+            "Alberca"
+        ],
+        "rateWeek": [
+            {
+                "day": "Lunes",
+                "rate":"$1,600.00MXN",
+                "time": "8Hrs"
+            },
+            {
+                "day": "Martes",
+                "rate":"$1,600.00MXN",
+                "time": "8Hrs"
+            },
+            {
+                "day": "Miercoles",
+                "rate":"$1,600.00MXN",
+                "time": "8Hrs"
+            },
+            {
+                "day": "Jueves",
+                "rate":"$1,600.00MXN",
+                "time": "8Hrs"
+            },
+            {
+                "day": "Viernes",
+                "rate":"$1,600.00MXN",
+                "time": "8Hrs"
+            },
+            {
+                "day": "Sabado",
+                "rate":"$1,600.00MXN",
+                "time": "8Hrs"
+            },
+            {
+                "day": "Domingo",
+                "rate":"$1,600.00MXN",
+                "time": "8Hrs"
+            }
+
+        ],
+       
+       "images": [
+            {
+                "image": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/armas/alberca/desktop/motel_alberca_01.jpg"
+            },    
+            {
+                "image": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/armas/alberca/desktop/motel_alberca_02.jpg"
+            },
+            {
+                "image": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/armas/alberca/desktop/motel_alberca_03.jpg"
+            },
+            {
+                "image": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/armas/alberca/desktop/motel_alberca_04.jpg"
+            },
+            {
+                "image": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/armas/alberca/desktop/motel_alberca_05.jpg"
+            },
+            {
+                "image": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/armas/alberca/desktop/motel_alberca_06.jpg"
+            }
+        ],
+        "opinions":[
+            {
+                "name": "ROCÍO MONTES.",
+                " commentary": "Mi esposa y yo pensamos en regresar, porque fue una experiencia muy buena. Gracias. "
+            },
+            {
+                "name": "PAMELA HERNANDEZ.",
+                " commentary" : "Las habitaciones están padrísimas y uff la comida ni se diga. ¡Me encantó todo!"
+            },
+            {
+                "name": "SAM MONTERRUBIO.",
+                " commentary" : "Me parece un excelente servicio, muy higiénico, todo muy limpio...un lugar muy agradable."
+            },
+            {
+                "name": "YULIETTE HEMOSHA.",
+                " commentary" : "He vivido mis mejores momentos ahí... ;) Me encanta. Deliciosa comida."
+            }
+        ]
+        
+    }
+    
+}
