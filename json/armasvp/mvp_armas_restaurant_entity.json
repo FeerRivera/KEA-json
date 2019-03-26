@@ -4,10 +4,10 @@
         "coverImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/armas/super_suite/desktop/super_suite_01.png",
         "description":"Los Alimentos y bebidas son preparados con la más alta calidad.",
         "brandImage": "https://moteles-vp-mx.s3.amazonaws.com/img/motel/restaurant/header/restaurant.jpg",
-        "servicesHorary":
-                [ 
-                   "Domingo a Jueves 8:00 a 23:00 hrs Viernes y Sábado 8:00 a 2:00 hrs"
-                ],
+        "servicesHorary":[ 
+                   "Domingo a Jueves 8:00 a 23:00 hrs", 
+                   "Viernes y Sábado 8:00 a 2:00 hrs"
+       ],
         "contact": { 
             "email": "ayuda@motelesvp.com",
             "facebook": "https://www.facebook.com/MotelesVPMX",
